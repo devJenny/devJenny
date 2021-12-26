@@ -18,5 +18,5 @@ Here are some ideas to get you started:
 <br>
 <br> 💎 Welcome to my github :) </br>
 <br>🎈 I'm learning programming</br>
-<br>💜 Backend Developer</br>
+<br>💜 Developer</br>
 </center>

@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **devJenny/devJenny** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<center>
+<h1> 💛 Jenny 💛</h1>
+<br>
+<br> 💎 Welcome to my github :) </br>
+<br>🎈 I'm learning programming</br>
+<br>💜 Backend Developer</br>
+</center>
